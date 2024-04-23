@@ -3,8 +3,11 @@
 Table of Content
 - [Project Overview](#project_overview)
 - [Purpose of the Project](#purpose_of_the_project)
+- [Data Source](#data_source)
+- [Business Questions to Answer](#business_questions_to_answer)
+  
 
-### Project Overview
+## Project Overview
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. 
 
 "In this recruiting competition, job-seekers are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact." source
@@ -12,7 +15,7 @@ This project aims to explore the Walmart Sales data to understand top performing
 ## Purposes Of The Project
 The major aim of this project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
-## About Data
+## Data Source
 The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data). This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
 |Column|Description|Data Type|
