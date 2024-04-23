@@ -19,7 +19,7 @@ This project aims to explore the Walmart Sales data to understand top performing
 The major aim of this project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
 ## Data Source
-The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data). This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data). This dataset contains sales transactions from three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains the following 17 columns and 1000 rows:
 
 |Column|Description|Data Type|
 |------|-----------|---------|
