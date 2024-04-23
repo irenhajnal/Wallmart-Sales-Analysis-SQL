@@ -1,10 +1,11 @@
 # Wallmart-Sales-Analysis-SQL
 
-Table of Content
-- [Project Overview](#project_overview)
-- [Purpose of the Project](#purpose_of_the_project)
-- [Data Source](#data_source)
-- [Business Questions to Answer](#business_questions_to_answer)
+### Table of Content
+- [Project Overview](#project-overview)
+-  [Project Overview](#project-overview)
+- [Purpose of the Project](#purpose-of-the-project)
+- [Data Source](#data-source)
+- [Business Questions to Answer](#business-questions-to-answer)
   
 
 ## Project Overview
